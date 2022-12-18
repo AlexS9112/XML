@@ -1,0 +1,15 @@
+
+        <ИД>А1</ИД>
+   <Environment>MACОС 11.2.3 Браузер Версия108.0.5359.98(Официальная сборка)(x86_64)</Environment>      
+  <precondition>Открыть сайт https://capital.comи</precondition>      
+  <Title>На главной странице в блоке "Markets Heatmap" пустые ячейки с данными</Title>
+  <link>https://drive.google.com/file/d/1lKuZWpo_NpE7twAg3fZNgDfn56gf2t0H/view?usp=share_link</link>: 
+        <STR>Пролистать до блока "Markets Heatmap</STR>   
+        <Ожидаемый результат>Все ячейки  имеют подписи</Ожидаемый результат>   
+        <Фактический результат>Некоторые ячейки не имеют подписей</Фактический результат> 
+       
+       
+    
+       
+
+ 
